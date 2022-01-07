@@ -1,8 +1,8 @@
 ### Olá sou Anderson
 
 - 🔭 Desenvolvo RPA desde 2019, experiencia com as ferramentas BluePrism, UiPath e PowerAutomate
-- 🌱 Estou estudando Python e IA
-- 💬 Pergunte-me sobre RPA
+- 🌱 Estudando constantemente Python, C# e IA
+- 💬 Sua opinião sobre o RPA me ajudará e muito, puxe uma cadeira e vamos conversar
 - 😄 Pronouns: ele/dele
 
 
