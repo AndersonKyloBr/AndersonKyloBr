@@ -1,5 +1,5 @@
 ### Olá sou Anderson
 
-- 🔭 Desenvolvo RPA desde 2019, experiencia com as ferramentas BluePrism, UiPath e PowerAutomate
-- 🌱 Estudando constantemente Python e IA
-- 💬 Sua opinião sobre o RPA me ajudará e muito, puxe uma cadeira e vamos conversar
+- 🔭 Iniciado a carreira na área de TI desde 2009 migrando para RPA em 2019, experiencia com as ferramentas BluePrism, UiPath e PowerAutomate
+- 🌱 Estudando constantemente Gestão de Produtos com rumo ao Product Management
+- 💬 Sua opinião sobre o Gestão de Produtos me ajudará e muito, puxe uma cadeira e vamos conversar
